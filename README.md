@@ -18,7 +18,7 @@
 <img src="Screenshot 2024-10-16 005144.png" width="300" height="auto" alt="Langkah kedua: Membuat Tabel">
 
 <h2>Hasil Langkah Kedua</h2>
-<img src="" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Tabel">
+<img src="Screenshot 2024-10-15 235703.png" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Tabel">
 
 <h1>Langkah Ketiga: Membuat List</h1>
 <p align="justify">
