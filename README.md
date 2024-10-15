@@ -5,7 +5,7 @@
     Pertama saya membuat struktur form dasar di dalam file `lab3_form.html`. 
     Form ini terdiri dari elemen-elemen penting seperti `input` untuk memasukkan data nama, `textarea` untuk alamat, dan pilihan `radio button` untuk jenis kelamin.
 </p>
-<img src="" width="300" height="auto" alt="Langkah pertama: Membuat Form">
+<img src="https://github.com/akmal-hafiz/lab3web/blob/main/Screenshot%202024-10-16%20002337.png" width="300" height="auto" alt="Langkah pertama: Membuat Form">
 
 <h2>Hasil Langkah Pertama</h2>
 <img src="" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Form">
