@@ -29,4 +29,4 @@
 <img src="Screenshot 2024-10-15 234603.png" width="300" height="auto" alt="Langkah ketiga: Membuat List">
 
 <h2>Hasil Langkah Ketiga</h2>
-<img src="" width="300" height="auto" title="Hasil langkah ketiga" alt="Hasil langkah ketiga: List">
+<img src="Screenshot 2024-10-15 234546.png" width="300" height="auto" title="Hasil langkah ketiga" alt="Hasil langkah ketiga: List">
