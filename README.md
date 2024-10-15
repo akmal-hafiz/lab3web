@@ -8,7 +8,7 @@
 <img src="Screenshot 2024-10-16 004703.png">
 
 <h2>Hasil Langkah Pertama</h2>
-<img src="" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Form">
+<img src="Screenshot 2024-10-16 002337.png" width="300" height="auto" title="Hasil langkah pertama" alt="Hasil langkah pertama: Form">
 
 <h1>Langkah Kedua: Membuat Tabel</h1>
 <p align="justify">
