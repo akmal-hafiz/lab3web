@@ -15,7 +15,7 @@
     Pada langkah kedua, saya membuat tabel di dalam file `Lab3_table.html`. 
     Tabel ini memiliki 3 kolom: `No.`, `Fakultas`, dan `Program Studi`. Tabel menampilkan data fakultas beserta program studi yang ada, dengan penggunaan atribut `rowspan` pada kolom fakultas.
 </p>
-<img src="" width="300" height="auto" alt="Langkah kedua: Membuat Tabel">
+<img src="Screenshot 2024-10-16 005144.png" width="300" height="auto" alt="Langkah kedua: Membuat Tabel">
 
 <h2>Hasil Langkah Kedua</h2>
 <img src="" width="300" height="auto" title="Hasil langkah kedua" alt="Hasil langkah kedua: Tabel">
